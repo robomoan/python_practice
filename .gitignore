@@ -1,3 +1,5 @@
 .env
 imcompleted/
+*.json
+.python-version
 .venv/
